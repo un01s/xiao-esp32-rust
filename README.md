@@ -1,4 +1,4 @@
-# Rust on ESP32C3 XAIO
+# Rust on XIAO ESP32C3
 
 
 ## references
