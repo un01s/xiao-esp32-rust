@@ -33,3 +33,5 @@
 
 * [rust esp32c3 tutorial](https://hutscape.com/tutorials/blinky-rust-esp32c3)
 
+* [esp32c3 rainbow](https://github.com/cashoefman/ESP32-C3-Rainbow-LED-Strip)
+
